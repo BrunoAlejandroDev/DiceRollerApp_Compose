@@ -1,1 +1,3 @@
-Versão implementada do codelab: <@591365329247010865> a ideia é fazer o Codelab do Dice Roller com Compose: https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app?hl=pt-br#0
+Versão implementada do Codelab do Android Developers:
+
+https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app?hl=pt-br#0
